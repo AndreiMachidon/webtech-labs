@@ -1,2 +1,2 @@
 # webtech-labs
-Repo for webtech labs
+Repository for webtech labs 
